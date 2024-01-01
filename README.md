@@ -1,4 +1,4 @@
-# Portfolio Project 01 ✩°｡⋆⸜(˙꒳​˙)
+# Project 01 Portfolio ✩°｡⋆⸜(˙꒳​˙)
 
 ![Tohru](https://i.pinimg.com/originals/c7/68/46/c768463782cef6ce7e65faf130e782db.gif)
 
