@@ -8,7 +8,8 @@
  - Motion Framer ✿
  
 ︵‿︵‿୨♡୧‿︵‿︵
- 
+
+ ╰┈➤ This is my first project which is a base portfolio containing parallax, it is not my main portfolio ˚ʚ♡ɞ˚.
 >check the project here ૮ ˶´ ᵕˋ ˶ა : [portfolio-proyect-01](https://portfolio-project-arekussa-01.netlify.app/)
 >
 >>Arekussa ◝(ᵔᵕᵔ)◜
